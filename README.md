@@ -5,3 +5,4 @@ Day 23 - Capstone Project - Turtle Crossing Game
 
 Specific (and short) notes and titles written in main.py. 
   Unfinished practice (07/02/2024); update tomorrow.
+  Finished practice (08/02/2024); updated.
